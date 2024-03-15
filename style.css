@@ -1,0 +1,18 @@
+body {
+    background-color: #333;
+    text-align: center;
+}
+
+h1 {
+    color: pink;
+    font-family: verdana;
+}
+
+button {
+    padding: 10px 30px;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: pink;
+}
